@@ -1,2 +1,2 @@
 # Practice
-First github projetct
+First github project
